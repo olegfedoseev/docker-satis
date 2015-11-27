@@ -1,0 +1,16 @@
+{
+  "name": "Private Satis",
+  "homepage": "http://satis.private.tld",
+  "output-dir": "",
+  "repositories": [],
+  "require": [],
+  "require-all": true,
+  "require-dependencies": true,
+  "require-dev-dependencies": true,
+  "minimum-stability": "dev",
+  "archive": {
+        "directory": "dist",
+        "format": "tar",
+        "skip-dev": false
+    }
+}
